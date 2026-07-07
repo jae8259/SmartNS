@@ -10,3 +10,6 @@
 [submodule "third_party/parallel-hashmap"]
 	path = third_party/parallel-hashmap
 	url = https://github.com/greg7mdp/parallel-hashmap.git
+[submodule "sort"]
+	path = sort
+	url = git@github.com:jae8259/bf-sort-offload.git
